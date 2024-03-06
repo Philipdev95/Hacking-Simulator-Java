@@ -3,6 +3,13 @@
 
 ## Setting up
 Kör
-javac HackingSceneSimulator.java
+
+`javac HackingSceneSimulator.java`
+
 i en terminal, och sen
-java HackingSceneSimulator
+
+`java HackingSceneSimulator`
+
+Du kan även lägga till 2 olika argument:
+
+`java HackingSceneSimulator <TextSomVisasEfterFörstaRaden> <AntalTeckenSomSkrivsUt>`
